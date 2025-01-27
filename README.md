@@ -2,7 +2,7 @@
 
 The Interactive EM Webapp is a dynamic simulator for the electric field. This project was created as a part of [Friday Night Lab](https://fnlhub.com) at College of the Sequoias. The simulator is written in TypeScript and the graphics are in WebGL.
 
-[Play with the project here](anisurrahmanju.github.io/Interactive-EM/)
+[Play with the project here](https://anisurrahmanju.github.io/Interactive-EM/)
 
 ## Features
 - Various charge shapes
